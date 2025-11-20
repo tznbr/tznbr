@@ -17,7 +17,7 @@ Coming soon...
 
 ## 📈 Tools & Technologies
 
-Python | R | SQL | Tableau | Power BI | Excel | Git | Jupyter Notebook
+Python | R | SQL | Tableau | Power BI | Excel | Jupyter Notebook
 
 ## 📬 Connect with Me
 www.linkedin.com/in/taznenalbari73
