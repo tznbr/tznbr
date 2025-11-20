@@ -1,4 +1,4 @@
-# 👋 Welcome to My Data Science Portfolio
+# 👋 Hi there
 
 Hi! I’m Taznen, a Data Science and Business Analytics graduate student.
 This repository highlights my work in data science, analytical problem-solving, and my growing interests in technology consulting, where I aim to bridge data insights with business strategy.
