@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to My Data Science Portfolio
 
-<!--
-**tznbr/tznbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Taznen, a Data Science and Business Analytics graduate student.
+This repository highlights my work in data science, analytical problem-solving, and my growing interests in technology consulting, where I aim to bridge data insights with business strategy.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 M.S. in Data Science and Business Analytics
+* 🎓 B.S. in Business Administration — Major in Technology Information Systems & Analytics, Minor in Computer Science
+* 💼 Interests: Data Visualization, Business Intelligence, and Technology Consulting
+* 🛠️ Skills: Python, SQL, R, Data Visualization, Machine Learning, Power BI, Tableau
+* 🌍 Passionate about transforming complex data into actionable insights that drive organizational decisions
+
+## 📂 Projects
+
+Coming soon...
+
+## 📈 Tools & Technologies
+
+Python | R | SQL | Tableau | Power BI | Excel | Git | Jupyter Notebook
+
+## 📬 Connect with Me
+www.linkedin.com/in/taznenalbari73
