@@ -13,7 +13,7 @@ This repository highlights my work in data science, analytical problem-solving, 
 
 ## 📂 Projects
 
-Fraud Detection System App (Python, Ski-Learn)
+Fraud Detection System Application (Python, Scikit-Learn)
 
 ## 📈 Tools & Technologies
 
